@@ -1,0 +1,10 @@
+{
+	"cmd": ["One_line_inserter.exe", "One_Liners.txt", "${file_base_name}.cpp",
+			"&&" ,    
+			"g++.exe","-std=c++14", "${file}", "-o", "${file_base_name}.exe", 
+			"&&" , 
+			"${file_base_name}.exe<inputf.in>outputf.in"],
+	"shell":true,
+	"working_dir":"$file_path",
+	"selector":"source.cpp"
+}

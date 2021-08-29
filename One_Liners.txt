@@ -1,0 +1,8 @@
+There are no accidents. - Master Oogway
+One often meets his destiny on the path he takes to avoid it. - Master Oogway
+We don't make problems, problems make us.
+Yo mama so fat, she fell off the family tree.
+Yo mama so fat, she can't even jump to conclusions.
+Your mama so fat, she solves the Travelling Salesman problem in O(1) by visiting all cities simultaneously.
+Yo mama so fat, she sat on a binary tree and flattened it to a linked list in constant time.
+Yo mama so fat, when allocating memory on the heap for her, malloc returns a null pointer.
